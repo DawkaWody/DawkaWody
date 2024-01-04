@@ -2,7 +2,7 @@
 - 👀 I’m interested in: game development
 - 🌱 I’m currently learning: unity engine
 - 💞️ I’m looking to collaborate: on some simple platformer game projects
-- 📫 How to reach me: you can't ;)
+- 📫 How to reach me: ._.
 
 Im new to github and not experienced in working using this tool, altough I have 5 years of programming experience in: python, java and C#
 
