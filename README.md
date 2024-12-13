@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate: on some simple platformer game projects
 - 📫 How to reach me: ._.
 
-I have 5 years of programming experience in: python, java and C#
+Im into gamedev!!!
 
 <!---
 DawkaWody/DawkaWody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
