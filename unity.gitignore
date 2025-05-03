@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+ProjectVersion.txt
+
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+
+sysinfo.txt
+crashlytics-build.properties
