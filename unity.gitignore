@@ -10,8 +10,9 @@ ProjectVersion.txt
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 .vs/
+.vscode/
 .vsconfig
-Assembly-CSharp.csproj
+*.csproj
 
 sysinfo.txt
 crashlytics-build.properties
